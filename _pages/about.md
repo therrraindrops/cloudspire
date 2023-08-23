@@ -4,6 +4,4 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
-
-Feel free to tell the world about what you love! 😍
+*A homebrew city setting for Blades in the Dark by Kevin Sheehan & Co.*
