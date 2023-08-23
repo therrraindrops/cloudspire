@@ -1,8 +1,8 @@
-$color-primary: hsl(0, 0%, 92%);
+$color-primary: hsl(0, 0%, 90%);
 $color-text: hsl(0, 0%, 90%);
 $color-subtext: hsl(0, 0%, 60%);
 $color-border: hsl(0, 0%, 15%);
-$color-box-background: mix($color-primary, black, 40%);
+$color-box-background: mix($color-primary, black, 20%);
 $border-radius: 4px;
 $font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
   sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
@@ -65,9 +65,15 @@ hr {
   background: $color-border;
 }
 
-h1,
-h2,
-h3,
+h1, {
+  color: #b74635
+}
+h2,{
+  color: #b74635
+}
+h3,{
+  color: #b74635
+}
 h4,
 h5,
 h6 {
@@ -84,7 +90,7 @@ a {
   color: $color-primary;
   &:hover {
     color: white !important;
-    background: #fffaf1;
+    background: #b74635;
   }
   &:after {
     position: relative;
