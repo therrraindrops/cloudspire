@@ -8,7 +8,7 @@ permalink: /
 # Welcome to Cloudspire.
 
 <p style="padding: 3em 1em; background: #505050; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[All Factions & Districts]]</span> to get started.
+  Take a look at <span style="font-weight: bold">[[Table of Contents]]</span> to get started.
 </p>
 
 ![whisper.jpg](/assets/whisper.jpg)
