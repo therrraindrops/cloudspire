@@ -1,11 +1,10 @@
 ## Characters
-### PCs
 
+### PCs
 - [[Marcel Bellinar (Carillon) - Erin]]
 - [[Markus Euler (Bookmark) - Nick]]
 - [[Marlo Savrim (Mist) - Carly]]
 ### NPCs
-
 - [[Antony Murano]]
 - [[Caz Mallock]]
 - [[Declan Scheer]]
@@ -18,9 +17,7 @@
 - [[Teclum Forrester]]
 - [[Three Clovers]]
 - [[Tia Balsam]]
-
 ## Districts
-
 - [[Bedrock]]
 - [[Centre City]]
 - [[Coinpurse Alley]]
@@ -32,7 +29,6 @@
 - [[The Roost]]
 - [[The Summit]]
 ## Locations
-
 - [[Crow's Nest]]
 - [[Emberglow Station]]
 - [[Factotum Institute]]
@@ -40,10 +36,10 @@
 - [[The College]]
 - [[The Mines]]
 - [[The Press]]
+
 ## Factions
 
 ### Institution
-
 - [[Blood Imports]]
 - [[City Council]]
 - [[College of Lightning]]
@@ -59,7 +55,6 @@
 - [[The Island]]
 - [[The Vultures]]
 ### Labor & Trade
-
 - [[Bargers]]
 - [[Cabbies]]
 - [[Ink Rakes]]
@@ -71,7 +66,6 @@
 - [[The Mesmer Institute]]
 - [[The Refinery]]
 ### The Fringe
-
 - [[Company of the Diving Bell]]
 - [[Cult of the Rising Sun]]
 - [[Doppelgängers]]
@@ -83,7 +77,6 @@
 - [[The Unseen]]
 - [[The Waking Dream]]
 ### Underworld
-
 - [[Arbuckle & Associates]]
 - [[Factum Factotum]]
 - [[Lock & Key]]
