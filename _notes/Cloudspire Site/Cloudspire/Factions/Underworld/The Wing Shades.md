@@ -1,22 +1,29 @@
 ---
 ---
 
-### The Wing Shades (0)
+## Tier: 0
 *Upstarts from Doskvol looking to set up shop and expand their reach.*
 
-**Turf**: [[Crow's Nest]] (HQ, [[The Roost]]), drug supply in [[Raptor’s Talon]]. 
+#### **Turf**
+[[Crow's Nest]] (HQ, [[The Roost]]), drug supply in [[Raptor’s Talon]]. 
 
-**NPCs**: --- 
+#### **NPCs**
+–
 
-**Notable Assets**:
+#### **Notable Assets**
 
-**Quirks**: They're the PCs.
 
-**Allies**: [[Ink Rakes]], [[Company of the Diving Bell]]
+#### **Quirks**
+They're the PCs.
 
-**Enemies**: [[The Dregs]], [[The Red Sashes]]
+#### **Allies**
+[[Ink Rakes]], [[Company of the Diving Bell]]
 
-**Situation**: They're the PCs.
+#### **Enemies**
+[[The Dregs]], [[The Red Sashes]]
+
+#### **Situation**
+They're the PCs.
 
 Got Crew Quarters from [[Ink Rakes]] (+1)
 Took Cohort:Rooks from [[The Red Sashes]] (-1)

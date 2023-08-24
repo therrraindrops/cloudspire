@@ -1,11 +1,14 @@
 ---
 ---
 
-### Cabbies (2W)
+## Tier: 2W
 *The quickest way to get around town and get some stories in the process.*
 
-**Turf**: all over, really.
+#### **Turf**
+all over, really.
 
-**Allies**: [[Bargers]]
+#### **Allies**
+[[Bargers]]
 
-**Enemies**: [[Pigeon]], [[Rogue’s Gallery]]
+#### **Enemies**
+[[Pigeon]], [[Rogue’s Gallery]]

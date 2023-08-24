@@ -3,11 +3,11 @@
 
 #npc
 *Description*
-# Details
+## Details
 Pronouns:
 Look:
 Motivation:
-# Connections
+## Connections
 Faction:
 Friends/Allies:
 Enemies/Rivals:

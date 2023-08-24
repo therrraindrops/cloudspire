@@ -7,9 +7,9 @@ permalink: /ToC
 ## Characters
 
 #### PCs
-- [[Marcel Bellinar (Carillon) - Erin]]
-- [[Markus Euler (Bookmark) - Nick]]
-- [[Marlo Savrim (Mist) - Carly]]
+- [[Marcel Bellinar (Carillon)]]
+- [[Markus Euler (Bookmark)]]
+- [[Marlo Savrim (Mist)]]
 
 #### NPCs
 - [[Antony Murano]]

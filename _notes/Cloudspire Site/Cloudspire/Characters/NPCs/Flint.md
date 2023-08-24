@@ -2,11 +2,11 @@
 ---
 
 *A spirit trafficker.*
-# Details
+## Details
 Pronouns: he/him
 Look: Woody Harrelson
 Motivation: undercut vultures, get paid 
-# Connections
+## Connections
 Faction: [[Rent-a-Haunt]]
 Friends/Allies:
-Enemies/Rivals: [[Marlo Savrim (Mist) - Carly]]
+Enemies/Rivals: [[Marlo Savrim (Mist)]]

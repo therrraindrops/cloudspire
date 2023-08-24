@@ -2,12 +2,12 @@
 ---
 
 *A charming, if brash (and deeply in debt), glass blower - makes vessels for the spirits he "commissions."*
-# Details
+## Details
 Pronouns: he/him
 Look: olive skin, long hair (usually tied up), neat beard, ringed and tattooed hands.
 Motivation: infamy; method: subterfuge.
 Interests: novels and writing on gadgets and new technology
-# Connections
+## Connections
 Faction: [[Lesser Nobility]] (in debt to his own family)
 Friends/Allies: [[Flint]]
 Enemies/Rivals:

@@ -2,11 +2,11 @@
 ---
 
 *Assassin, polite, deadly, connoisseur.*
-# Details
+## Details
 Pronouns: she/her
 Look: knife-sharp, deadpan. Jena Malone.
 Motivation: kill as the leaves dictate.
-# Connections
+## Connections
 Faction: [[The Dregs]]
 Friends/Allies:
-Enemies/Rivals: [[Marcel Bellinar (Carillon) - Erin]]
+Enemies/Rivals: [[Marcel Bellinar (Carillon)]]

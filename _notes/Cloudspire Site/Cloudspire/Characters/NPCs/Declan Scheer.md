@@ -2,11 +2,11 @@
 ---
 
 *Ink rake, pamphleteer, conspiracist, shrewd, gullible*
-# Details
+## Details
 Pronouns: he/him
 Look: consistently crazed.
 Motivation: find the truth.
-# Connections
+## Connections
 Faction: [[Ink Rakes]]
 Friends/Allies: 
 Enemies/Rivals: 

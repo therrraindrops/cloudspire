@@ -19,8 +19,8 @@ Cohort: Rooks from [[The Red Sashes]] (4w) (-1)
 
 ## Characters.
 
-![[Marlo Savrim (Mist) - Carly]]
+![[Marlo Savrim (Mist)]]
 
-![[Marcel Bellinar (Carillon) - Erin]]
+![[Marcel Bellinar (Carillon)]]
 
-![[Markus Euler (Bookmark) - Nick]]
+![[Markus Euler (Bookmark)]]

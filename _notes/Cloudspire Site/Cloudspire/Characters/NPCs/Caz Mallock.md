@@ -3,11 +3,11 @@
 
 *Revolutionary voice of [[Local 251]].*
 *(spokesperson, fiery, revolutionary)*
-# Details
+## Details
 Pronouns: he/they
 Look: Redhead, lincoln-esque, intense clarity
 Motivation: solidarity, independence (of miners), fuck bootlickers.
-# Connections
+## Connections
 Faction: [[Local 251]]
 Friends/Allies: laborers everywhere.
 Enemies/Rivals: the man.

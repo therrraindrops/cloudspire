@@ -1,7 +1,8 @@
 ---
 ---
 
-### Skovlan Consulate (2W)
+## Tier: 2W
 *Representatives of the Skovlanders here, refugee or otherwise.*
 
-**Turf**: Embassy (HQ, [[Sparrow’s Landing]])
+#### **Turf**
+Embassy (HQ, [[Sparrow’s Landing]])

@@ -1,11 +1,14 @@
 ---
 ---
 
-### The Refinery (3S)
+## Tier: 3S
 *Where ore is separated from gem and turned into material.*
 
-**Turf**: The Refinery (HQ, [[Glitterpeak]])
+#### **Turf**
+The Refinery (HQ, [[Glitterpeak]])
 
-**Allies**: [[Local 251]]
+#### **Allies**
+[[Local 251]]
 
-**Enemies**: [[Doppelgängers]], [[Spelunkers United]], [[The Vault]]
+#### **Enemies**
+[[Doppelgängers]], [[Spelunkers United]], [[The Vault]]
