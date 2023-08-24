@@ -1,4 +1,5 @@
 ---
+title: Skovlan Consulate
 ---
 
 ## Tier: 2W

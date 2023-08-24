@@ -1,4 +1,5 @@
 ---
+title: Centre City
 ---
 
 Wealth 2  Safety 3  Crime 0  Occult 1

@@ -1,4 +1,5 @@
 ---
+title: Rogue's Gallery
 ---
 
 ## Tier: 2W

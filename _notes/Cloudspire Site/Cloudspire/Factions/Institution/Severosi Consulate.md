@@ -1,4 +1,5 @@
 ---
+title: Severosi Consulate
 ---
 
 ## Tier: 1S

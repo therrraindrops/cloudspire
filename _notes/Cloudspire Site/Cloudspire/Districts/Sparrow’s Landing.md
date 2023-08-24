@@ -1,4 +1,5 @@
 ---
+title: Sparrow's Landing
 ---
 
 Wealth 3  Safety 3  Crime 1  Occult 2

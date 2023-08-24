@@ -1,4 +1,5 @@
 ---
+title: The College
 ---
 
 Home to knowledge and learning within Cloudspire. 

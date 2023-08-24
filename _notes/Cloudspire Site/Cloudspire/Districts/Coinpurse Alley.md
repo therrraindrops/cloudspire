@@ -1,4 +1,5 @@
 ---
+title: Coinpurse Alley
 ---
 
 Wealth 3  Safety 1  Crime 4  Occult 0

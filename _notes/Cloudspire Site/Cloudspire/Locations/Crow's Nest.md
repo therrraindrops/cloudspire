@@ -1,4 +1,5 @@
 ---
+title: Crow's Nest
 ---
 
 Headquarters of [[The Wing Shades]]in [[The Roost]]. Formerly owned by [[Ink Rakes]].

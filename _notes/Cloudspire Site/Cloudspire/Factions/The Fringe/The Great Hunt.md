@@ -1,4 +1,5 @@
 ---
+title: The Great Hunt
 ---
 
 ## Tier: 2W

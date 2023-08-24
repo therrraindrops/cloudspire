@@ -1,4 +1,5 @@
 ---
+title: Rent-a-Haunt
 ---
 
 ## Tier: 2S

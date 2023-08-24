@@ -1,4 +1,5 @@
 ---
+title: The Wing Shades
 ---
 
 ## Tier: 0

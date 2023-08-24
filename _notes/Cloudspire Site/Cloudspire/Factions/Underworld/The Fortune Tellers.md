@@ -1,4 +1,5 @@
 ---
+title: The Fortune Tellers
 ---
 
 ## Tier: 3W

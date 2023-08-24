@@ -1,4 +1,5 @@
 ---
+title: Ministry of Preservation
 ---
 
 ## Tier: 4W

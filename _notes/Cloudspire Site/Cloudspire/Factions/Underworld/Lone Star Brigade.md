@@ -1,4 +1,5 @@
 ---
+title: Lone Star Brigade
 ---
 
 ## Tier: 2W

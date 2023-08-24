@@ -1,4 +1,5 @@
 ---
+title: Gina Batello
 ---
 
 *Mine enforcer, hawkish, ever-present. [[Marlo Savrim (Mist)]]'s obligation.*

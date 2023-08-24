@@ -1,4 +1,5 @@
 ---
+title: The Vault
 ---
 
 ### Tier: 4W

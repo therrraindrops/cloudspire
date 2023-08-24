@@ -1,4 +1,5 @@
 ---
+title: Company of the Diving Bell
 ---
 
 ## Tier: 3S

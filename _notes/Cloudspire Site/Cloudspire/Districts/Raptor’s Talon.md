@@ -1,4 +1,5 @@
 ---
+title: Raptor's Talon
 ---
 
 Wealth 2  Safety 1  Crime 3  Occult 3

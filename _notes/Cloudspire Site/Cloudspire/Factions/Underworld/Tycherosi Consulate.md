@@ -1,4 +1,5 @@
 ---
+title: Tycherosi Consulate
 ---
 
 ## Tier: 3S

@@ -1,4 +1,5 @@
 ---
+title: Teclum Forrester
 ---
 
 *Barger commander, passionate, principled.*

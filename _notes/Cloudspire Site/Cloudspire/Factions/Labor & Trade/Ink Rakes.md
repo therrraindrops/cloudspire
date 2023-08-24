@@ -1,4 +1,5 @@
 ---
+title: Ink Rakes
 ---
 
 ## Tier: 1S

@@ -1,4 +1,5 @@
 ---
+title: Passh Velkin
 ---
 
 Red Sash valedictorian, fervid, ideologue.

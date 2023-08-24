@@ -1,4 +1,5 @@
 ---
+title: College of Lightning
 ---
 
 ## Tier: 3W

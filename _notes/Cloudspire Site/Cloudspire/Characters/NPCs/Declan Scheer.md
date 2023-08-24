@@ -1,4 +1,5 @@
 ---
+title: Declan Scheer
 ---
 
 *Ink rake, pamphleteer, conspiracist, shrewd, gullible*

@@ -1,4 +1,5 @@
 ---
+title: Caz Mallock
 ---
 
 *Revolutionary voice of [[Local 251]].*

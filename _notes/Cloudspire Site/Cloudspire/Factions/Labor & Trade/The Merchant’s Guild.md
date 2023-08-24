@@ -1,4 +1,5 @@
 ---
+title: The Merchant's Guild
 ---
 
 ## Tier: 3S

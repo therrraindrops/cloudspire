@@ -1,4 +1,5 @@
 ---
+title: Imperial Military
 ---
 
 ## Tier: 6S

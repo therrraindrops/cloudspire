@@ -1,4 +1,5 @@
 ---
+title: Dagger Isles Consulate
 ---
 
 ## Tier: 1S

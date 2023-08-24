@@ -1,4 +1,5 @@
 ---
+title: Cult of the Rising Sun
 ---
 
 ## Tier: 2W

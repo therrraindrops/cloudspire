@@ -1,4 +1,5 @@
 ---
+title: The Rapturous Chord
 ---
 
 A Forgotten God cult. 

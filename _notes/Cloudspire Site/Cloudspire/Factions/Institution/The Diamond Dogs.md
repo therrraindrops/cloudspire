@@ -1,4 +1,5 @@
 ---
+title: The Diamond Dogs
 ---
 
 ## Tier: 3W

@@ -1,4 +1,5 @@
 ---
+title: The Red Sashes
 ---
 
 ## Tier: 4W

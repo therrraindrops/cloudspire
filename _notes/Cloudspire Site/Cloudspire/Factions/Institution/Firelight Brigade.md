@@ -1,4 +1,5 @@
 ---
+title: Firelight Brigade
 ---
 
 ## Tier: 2S

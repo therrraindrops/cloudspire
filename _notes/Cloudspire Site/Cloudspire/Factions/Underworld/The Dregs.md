@@ -1,4 +1,5 @@
 ---
+title: The Dregs
 ---
 
 ## Tier: 1S
