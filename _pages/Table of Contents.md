@@ -14,6 +14,7 @@ permalink: /ToC
 ##### NPCs
 - [[Antony Murano]]
 - [[Caz Mallock]]
+- [[Dean Archibald Rutherford Clay II]]
 - [[Declan Scheer]]
 - [[Esme]]
 - [[Flint]]
@@ -22,6 +23,7 @@ permalink: /ToC
 - [[Passh Velkin]]
 - [[Quellyn]]
 - [[Teclum Forrester]]
+- [[The Tower]]
 - [[Three Clovers]]
 - [[Tia Balsam]]
 

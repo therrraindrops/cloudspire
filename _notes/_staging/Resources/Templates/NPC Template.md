@@ -1,14 +1,13 @@
 ---
 ---
 
-#npc
 *Description*
 ## Details
-Pronouns:
-Look:
-Motivation:
+**Pronouns**:
+**Look**:
+**Motivation**:
 ## Connections
-Faction:
-Friends/Allies:
-Enemies/Rivals:
+**Faction**:
+**Friends/Allies**:
+**Enemies/Rivals**:
 

@@ -9,7 +9,7 @@ title: The Unseen
 Thanks to their control of the Ministry, most businesses funnel into the Unseen one way or another.
 
 #### **NPCs**
-The Tower (leader), The Chariot (harbinger)
+[[The Tower]] (leader), The Chariot (harbinger)
 
 #### **Notable Assets**
 the ministry of preservation, impeccable wards and curses, 

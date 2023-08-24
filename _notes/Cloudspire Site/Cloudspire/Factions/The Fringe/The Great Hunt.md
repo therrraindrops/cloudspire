@@ -9,7 +9,7 @@ title: The Great Hunt
 A hidden meeting room (HQ, [[Sparrow’s Landing]])
 
 #### **NPCs**
-Horns Grasped With Fingers Entwined (leader, explorer, ravenous), Fair of Hair & Fleet of Foot (runner, composed, reserved, many pockets)
+Horns Grasped With Fingers Entwined (leader, explorer, ravenous, "Fingers"), Fair of Hair & Fleet of Foot (runner, composed, reserved, many pockets, "Fair & Fleet")
 
 #### **Notable Assets**
 A few fringe demon scholars, decent survival gear

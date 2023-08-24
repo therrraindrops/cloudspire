@@ -9,7 +9,7 @@ title: College of Lightning
 [[The College]] (HQ, [[Raptor’s Talon]]) 
 
 #### **NPCs**
-Dean Clay (principled, stern, quick wit, well-tailored, hungry), Professor Albany (experimental, temperamental, transcendental), Celene (visiting professor, strict, ladder climber)
+[[Dean Archibald Rutherford Clay II]] (principled, stern, quick wit, well-tailored, hungry), Professor Albany (experimental, temperamental, transcendental), Celene (visiting professor, strict, ladder climber)
 
 #### **Notable Assets**
 tons of tomes, a window into the mines, a deep rolodex of wealthy patrons/alumni

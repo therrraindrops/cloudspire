@@ -4,14 +4,14 @@ title: Antony Murano
 
 *A charming, if brash (and deeply in debt), glass blower - makes vessels for the spirits he "commissions."*
 ## Details
-Pronouns: he/him
-Look: olive skin, long hair (usually tied up), neat beard, ringed and tattooed hands.
-Motivation: infamy; method: subterfuge.
-Interests: novels and writing on gadgets and new technology
+**Pronouns**: he/him
+**Look**: olive skin, long hair (usually tied up), neat beard, ringed and tattooed hands.
+**Motivation**: infamy; method: subterfuge.
+**Interests**: novels and writing on gadgets and new technology
 ## Connections
-Faction: [[Lesser Nobility]] (in debt to his own family)
-Friends/Allies: [[Flint]]
-Enemies/Rivals:
+**Faction**: [[Lesser Nobility]] (in debt to his own family)
+**Friends/Allies**: [[Flint]]
+**Enemies/Rivals**:
 
 Devoted to [[The Rapturous Chord]]. 
 

@@ -9,7 +9,7 @@ title: The Diamond Dogs
 The Pound (HQ, [[Centre City]])
 
 #### **NPCs**
-Lieutenant (lieutenant, needy, starry-eyed), Officer Klump (cop, brutal, tenacious) 
+Sellyers (lieutenant, needy, starry-eyed), Officer Blaylock (cop, brutal, tenacious), Duke (investigator, thin, self-serious)
 
 #### **Notable Assets**
 weapons and tools to suppress, jails and holding cells, precincts in every district.

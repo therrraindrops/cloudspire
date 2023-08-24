@@ -9,7 +9,7 @@ title: Rent-a-Haunt
 Unassuming storefront (HQ, [[The Roost]])
 
 #### **NPCs**
-Kasparov (owner, whisper, Jacobi-from-twin-peaks), August (ghost, reclusive, avaricious), [[Flint]] (spirit trafficker)
+Kasparov (owner, whisper, Dr. Jacobi-coded), August (ghost, reclusive, avaricious), [[Flint]] (spirit trafficker)
 
 #### **Notable Assets**
 charms and wards for navigating the supernatural, books of decent blackmail. 
