@@ -6,12 +6,12 @@ permalink: /ToC
 
 ## Characters
 
-#### PCs
+##### PCs
 - [[Marcel Bellinar (Carillon)]]
 - [[Markus Euler (Bookmark)]]
 - [[Marlo Savrim (Mist)]]
 
-#### NPCs
+##### NPCs
 - [[Antony Murano]]
 - [[Caz Mallock]]
 - [[Declan Scheer]]
@@ -50,7 +50,7 @@ permalink: /ToC
 ## Factions
 
 
-#### Institution
+##### Institution
 - [[Blood Imports]]
 - [[City Council]]
 - [[College of Lightning]]
@@ -66,7 +66,7 @@ permalink: /ToC
 - [[The Island]]
 - [[The Vultures]]
 
-#### Labor & Trade
+##### Labor & Trade
 - [[Bargers]]
 - [[Cabbies]]
 - [[Ink Rakes]]
@@ -78,7 +78,7 @@ permalink: /ToC
 - [[The Mesmer Institute]]
 - [[The Refinery]]
 
-#### The Fringe
+##### The Fringe
 - [[Company of the Diving Bell]]
 - [[Cult of the Rising Sun]]
 - [[Doppelgängers]]
@@ -90,7 +90,7 @@ permalink: /ToC
 - [[The Unseen]]
 - [[The Waking Dream]]
 
-#### Underworld
+##### Underworld
 - [[Arbuckle & Associates]]
 - [[Factum Factotum]]
 - [[Lock & Key]]
