@@ -8,7 +8,7 @@ permalink: /
 
 
 <p style="padding: 3em 1em; background: #505050; border-radius: 4px;">
-  Welcome to Cloudspire.
+  Welcome to Cloudspire; an Akorosian mining venture half-forgotten by the Empire.
 </p>
 
 ![whisper.jpg](/assets/whisper.jpg)
@@ -29,11 +29,13 @@ permalink: /
 
 
 ## Characters
-### PCs
+
+#### PCs
 - [[Marcel Bellinar (Carillon) - Erin]]
 - [[Markus Euler (Bookmark) - Nick]]
 - [[Marlo Savrim (Mist) - Carly]]
-### NPCs
+
+#### NPCs
 - [[Antony Murano]]
 - [[Caz Mallock]]
 - [[Declan Scheer]]
@@ -68,9 +70,11 @@ permalink: /
 - [[The Mines]]
 - [[The Press]]
 
+
 ## Factions
 
-### Institution
+
+#### Institution
 - [[Blood Imports]]
 - [[City Council]]
 - [[College of Lightning]]
@@ -85,7 +89,8 @@ permalink: /
 - [[The Diamond Dogs]]
 - [[The Island]]
 - [[The Vultures]]
-### Labor & Trade
+
+#### Labor & Trade
 - [[Bargers]]
 - [[Cabbies]]
 - [[Ink Rakes]]
@@ -96,7 +101,8 @@ permalink: /
 - [[The Merchant’s Guild]]
 - [[The Mesmer Institute]]
 - [[The Refinery]]
-### The Fringe
+
+#### The Fringe
 - [[Company of the Diving Bell]]
 - [[Cult of the Rising Sun]]
 - [[Doppelgängers]]
@@ -107,7 +113,8 @@ permalink: /
 - [[The Great Hunt]]
 - [[The Unseen]]
 - [[The Waking Dream]]
-### Underworld
+
+#### Underworld
 - [[Arbuckle & Associates]]
 - [[Factum Factotum]]
 - [[Lock & Key]]
