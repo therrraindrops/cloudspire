@@ -18,7 +18,6 @@ permalink: /
 
 # [[Table of Contents]]
 
-
 <strong>Recently updated notes</strong>
 
 <ul>
